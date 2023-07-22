@@ -1,8 +1,5 @@
 # Extracao de Dados Projetos Popostos
 
-<p align="justify">
-O presente trabalho tem como objetivo realizar uma segmentação de clientes semelhantes na base de dados de um e-commerce baseado nos dados de renda anual e pontuação de gastos utilizando o algoritmo de clusterização K-means. E em seguida treinar um modelo de classificação utilizando árvore de decisão para classificar novos clientes.
-<p/>
+Trabalho desenvolvido na disciplina Sistemas Nebulosos que apresenta uma aplicacão de agrupameto de dados na segmentacão semântica de imagens RGB utilizando o algoritmo k-Means.
 
-
-Click <a target="_blank" rel="noopener noreferrer" href="https://github.com/mendesrafael2/AgrupamentoClassificao_Clientes_K-means_Decisiontree/blob/main/e-commerce%20-%20k-means.ipynb">aqui</a> para visualizar o projeto. 
+Click <a target="_blank" rel="noopener noreferrer" href="https://mendesrafael2.github.io/KMeans-Segmentacao_Semantica_Imagens/">aqui</a> para ir para página do projeto. 
